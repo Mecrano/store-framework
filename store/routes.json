@@ -1,8 +1,8 @@
 {
-    "store.custom#edwin": {
-        "path": "/edwin"
-    },
     "store.custom#about-us": {
         "path": "/about-us"
+    },
+    "store.custom#edwin": {
+        "path": "/edwin"
     }
 }
