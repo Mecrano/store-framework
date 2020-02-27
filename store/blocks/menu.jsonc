@@ -14,7 +14,7 @@
             "vtex.menu@2.x:menu#major"
         ],
         "props": {
-            "orientation": "vertial"
+            "orientation": "vertical"
         }
     },
     "vtex.menu@2.x:menu#major": {
